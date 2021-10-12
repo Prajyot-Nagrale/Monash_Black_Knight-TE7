@@ -70,10 +70,14 @@ Contributing:
 4.	Password Protected: Setting a password to protect WordPress.
 5.	VersionPress: Git-versioning for WordPress.
 6.	Visualizer: Tables and Charts for WordPress:create, manage and embed interactive charts into WordPress posts and pages,which uses Google Visualization API to render charts, which supports cross-browser compatibility (adopting VML for older IE versions) and cross-platform portability to iOS and new Android releases.
-7.	Woody code snippets (PHP snippets | Insert PHP): Executes PHP code, uses conditional logic to insert ads, text, media content and external service’s code. Ensures no content duplication.
-8.	VersionPress: keep WordPress version control
-9.	Ivory Search: It includes Search Form Customizer, WooCommerce Search, Image Search, Search Shortcode, AJAX Search & Live Search support! Users can search for keywords in any pages.
-10.	Crisp: It is a Livechat plugin. Users can use this plug-in to communicate with the system's service personnel, and when the system's service personnel are not online, they can also automatically reply to the user's message according to the settings.
+7.	Wonder Video Embed: WordPress Video Embed Plugin & Widget
+8.	WP STAGING: Create a staging clone site for testing & developing.
+9.	WP Subtitle: Adds a subtitle field to pages and posts. Possible to add support for custom post types.
+10.	WPForms Lite: WordPress contact form plugin,Drag & Drop form builder to create WordPress forms.
+11.	Woody code snippets (PHP snippets | Insert PHP): Executes PHP code, uses conditional logic to insert ads, text, media content and external service’s code. Ensures no content duplication.
+12.	Ivory Search: It includes Search Form Customizer, WooCommerce Search, Image Search, Search Shortcode, AJAX Search & Live Search support! Users can search for keywords in any pages.
+13.	Crisp: It is a Livechat plugin. Users can use this plug-in to communicate with the system's service personnel, and when the system's service personnel are not online, they can also automatically reply to the user's message according to the settings.
+
 
 
 Contact:
